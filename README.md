@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Stanislav Schults @stschults
 - 🌱 I’m currently learning Swift
 - 📫 Reach me on Telegram: @stschults
+SALAMALEYKUM
 
 <!---
 stschults/stschults is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
