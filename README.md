@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Stanislav Schults @stschults
-- 🌱 I’m currently learning Swift
 - 📫 Reach me on Telegram: @stschults
 
 <!---
