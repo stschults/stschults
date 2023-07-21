@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stanislav Schults @stschults
+- 👋 Hi, I’m Stanislav Schults
 - 📫 Reach me on Telegram: @stschults
 
 <!---
